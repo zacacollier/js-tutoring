@@ -30,9 +30,6 @@ A little slice of the big picture.
 3. [_Javascript Allongé: Values and Expressions over Coffee_](https://leanpub.com/javascriptallongesix/read#leanpub-auto-prelude-values-and-expressions-over-coffee)
 An awesome takeaway to be gained here.
 
-* [_Bonus: Eloquent Javascript: Introduction & Chapter 1_](http://eloquentjavascript.net/00_intro.html)
-Another great, more computer-sciencey JS intro.
-
 4. [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 Say goodbye to Github Desktop - from now on, we use Git the proper way, as Linus Torvalds originally intended it.
 
@@ -41,6 +38,9 @@ The faster, the better.
 
 6. [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 You'll pick this up more as you go along, but go ahead and learn some basics for now.
+
+* [_Bonus: Eloquent Javascript: Introduction & Chapter 1_](http://eloquentjavascript.net/00_intro.html)
+Another great, more computer-sciencey JS intro.
 
 ##### More to come!
 I'll keep you updated on how we'll be using this repo to co-work on projects and exercises.
