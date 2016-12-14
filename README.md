@@ -2,9 +2,10 @@
 
 ### Mindset Check
 
-* *Aspire toward becoming an expert, admit to being a noob.*
+* *Aspire toward mastery.*
 ##### *Read*. *Look stuff up*. *Clutter your browser with tabs for every time you have to Google something*, whether out of necessity or just on a whim. 
 When you don't know something, *first and foremost* go look it up - read, practice, relish in your newfound knowledge. When you forget about it a day or so later, hang your head, go look it up again, practice more. Give yourself a break; nobody gets everything on the first go-around. 
+> **“In the beginner’s mind there are many possibilities, but in the expert’s there are few” ― Shunryu Suzuki**
 
 * *Embrace your failures, celebrate your successes.*
 ##### The vast majority of your time learning Javascript will be spent debugging i.e. *fixing shit*. 
@@ -14,7 +15,7 @@ Don't worry, we'll work on developing some skills to help make this process less
 ##### Self-explanatory. You won't learn anything if you don't practice regularly; you won't *become proficient* at anything if you don't practice *daily*. 
 My recommendation? Start as soon as you wake up - drink some water, make a coffee, ignore your pending Instagram notifications, begin coding. Even just 15 minutes to get the ball rolling will help you come back to it later in the day.
 
-* *No, I'm not trying to spook you :)*
+* *Enjoy the process.*
 ##### Learning programming is about *changing your brain*. 
 Frustration and confusion are your brain's way of responding to the frightening and unfamiliar surroundings to which you're exposing it. Moreover, they are concrete signs of progress - emotional responses signalling an impending change. 
 
@@ -41,6 +42,8 @@ You'll pick this up more as you go along, but go ahead and learn some basics for
 
 * [_Bonus: Eloquent Javascript: Introduction & Chapter 1_](http://eloquentjavascript.net/00_intro.html)
 Another great, more computer-sciencey JS intro.
+
+* [Shunryu Suzuki quotes for motivation](https://www.goodreads.com/author/quotes/62707.Shunryu_Suzuki)
 
 ##### More to come!
 I'll keep you updated on how we'll be using this repo to co-work on projects and exercises.
