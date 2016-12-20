@@ -34,6 +34,7 @@ An awesome takeaway to be gained here.
 
 4. [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 Say goodbye to Github Desktop - from now on, we use Git the proper way, as Linus Torvalds originally intended it.
+Also check out [Try Git](https://try.github.io/levels/1/challenges/1).
 
 5. [Lifehacker: Keyboard Shortcuts](http://lifehacker.com/5970089/back-to-the-basics-learn-to-use-keyboard-shortcuts-like-a-ninja)
 The faster, the better. If you want to really optimize your keystroke efficiency, [consider learning Vim](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=learn%20vim).
