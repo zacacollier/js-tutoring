@@ -37,7 +37,7 @@ Say goodbye to Github Desktop - from now on, we use Git the proper way, as Linus
 Also check out [Try Git](https://try.github.io/levels/1/challenges/1).
 
 5. [Lifehacker: Keyboard Shortcuts](http://lifehacker.com/5970089/back-to-the-basics-learn-to-use-keyboard-shortcuts-like-a-ninja)
-The faster, the better. If you want to really optimize your keystroke efficiency, [consider learning Vim](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=learn%20vim).
+The faster, the better. If you want to really optimize your keystroke efficiency, [I highly recommend you consider learning Vim - see Environment Setup below for details](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=learn%20vim).
 
 6. [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 You'll pick this up more as you go along, but go ahead and learn some basics for now.
@@ -46,6 +46,23 @@ You'll pick this up more as you go along, but go ahead and learn some basics for
 Another great, more computer-sciencey JS intro.
 
 * [Shunryu Suzuki quotes for motivation](https://www.goodreads.com/author/quotes/62707.Shunryu_Suzuki)
+
+### Environment Setup & Optimization
+##### The steps listed below are in numerical order, from **easiest-to-implement** to **more involved / time-consuming**. 
+1. **"The Great Suspender" Chrome Plug-in** - Chrome's a massive RAMhog - ease the burden on your system memory with this plugin.
+2. **Remap `Caps Lock` to `Control`** There are different ways to do this depending on your system, but it's usually pretty easy - Google your OS version to find out how. macOS Sierra 10.12, for instance, allows you to easily remap `Caps Lock` from within System Preferences (arguably the only positive side-effect of their decision to abandon the `Escape` key on the new 2016 MacBook Pro).
+ - **"But why Caps Lock?"**
+  Being as `Control` is the default leader key for some very useful keyboard shortcuts on the command line (which, again, you're going to be using more and more from now on), and `Caps Lock` is so much more conveniently located. In fact, many of the first consumer-grade computer keyboards [shipped with the `Control` where the `Caps Lock` key is nowadays](https://donatstudios.com/UNIX-Keyboards). Besides, I bet you can count on one hand the number of times you've used `Caps Lock` in the past month... **;o)**
+3. **Upgrade and Customize your Terminal** Since you'll be spending so much time with the command line, I recommend you select a better Terminal emulator than the one that comes with your machine.
+  - **macOS**: Install [iTerm2](https://www.iterm2.com/) and [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH) for a much better CLI experience. I recommend using a minimal theme like [Avit](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#avit)
+  - **Windows**: Install [Cygwin] and configure to your liking.
+4. **Start learning `vim`** This will be the most challenging change to implement in your development environment, but the longterm benefits you will gain from being able to **write code really fast** are absolutely worth it. There are many development environments and text editors out there, but the oldest and most widely-revered standbys are [Vim](http://www.vim.org/) and [Emacs](https://www.gnu.org/software/emacs/tour/). Both have strengths and weaknesses, an extended discussion of which would be outside the scope of this article. Vim is my favorite, for a number of reasons:
+  - **Lightning-fast editing capabilities** - the keymappings are weird at first, but [you'll be able to edit text much, much faster once you get used to them](https://youtu.be/4Z8YbjQvb3s).
+  - **Runs natively in a terminal window** - no need to constantly switch between text editors and terminal windows.
+  - **Lightweight** - This because Vim runs in the terminal. I'm pretty OCD about CPU / RAM usage; the fewer application processes I have running, the better.
+  - **Supported everywhere** - Lots of UNIX-based systems even come with Vim already installed. Not only that, but since the *configuration* is loaded from a regular plaintext file in the host's home directory, it's easy to backup and install from anywhere - for instance, I can host my `config` files on Github, pull in my `.vimrc` and load in my preferred settings.
+  The best way to transition is to **first install Vim bindings for your current editor**. **Atom**, for instance, has a package called **"Vim Mode Plus"** that's got all the basic functionality you'll need to get your bearings. This way, you'll be able to learn the basics - moving around, cutting / pasting text - but you'll always be able to fall back on the mouse when necessary. 
+  I'll post a more detailed guide on how to get **just the right amount of customization** in your `vim` setup, so you can really soup up your development environment when you're ready.
 
 ##### More to come!
 I'll keep you updated on how we'll be using this repo to co-work on projects and exercises.
