@@ -21,7 +21,7 @@ Frustration and confusion are your brain's way of responding to the frightening 
 > **“In the beginner’s mind there are many possibilities, but in the expert’s there are few.” ― Shunryu Suzuki**
 
 ### Pre-Work
-##### Before we begin, I'd like you to complete some readings and exercises. They're listed in order of importance - work on them concurrently or sequentially, whichever suits your learning style best. 
+##### Before we begin, I'd like you to complete some readings and exercises. They're listed in order of importance - nevertheless, work on them concurrently or sequentially, whichever suits your learning style best. 
 ##### _Note that I won't expect you to pay for / complete any Codecademy Pro content - the Free track will suffice_
 1. [Codecademy: Javascript](https://www.codecademy.com/learn/javascript)
 Familiarize yourself with the fundamentals.
@@ -30,7 +30,17 @@ Familiarize yourself with the fundamentals.
 A little slice of the big picture.
 
 3. [_Javascript Allongé: Values and Expressions over Coffee_](https://leanpub.com/javascriptallongesix/read#leanpub-auto-prelude-values-and-expressions-over-coffee)
-An awesome takeaway to be gained here.
+_"Values are expressions..."
+
+4. [Udemy: "Javascript: Understanding the Weird Parts"](https://www.udemy.com/understand-javascript/)
+##### Don't. miss. this. one.
+Anthony Aliceas' course on Udemy is simply one of the best Javascript resources out there. Once you know enough JS to survive - you've had time to get acquainted with some of it's maddening nuances - go grab this course. When I was struggling with JS at first, this helped me, more than anything, start to feel like I was "getting it". 
+The course lists for $175, but here's how you can get it for about $15:
+
+ - Download the [Honey extension](https://chrome.google.com/webstore/detail/honey/) for Chrome.
+ - Go to Udemy and add the course to your Shopping Cart
+ - Go to Checkout. Honey will start doing it's thing.
+ - When it's finished scanning for Coupon Codes, the price will have been reduced to about $15!
 
 4. [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 Say goodbye to Github Desktop - from now on, we use Git the proper way, as Linus Torvalds originally intended it.
