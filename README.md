@@ -30,7 +30,7 @@ Familiarize yourself with the fundamentals.
 A little slice of the big picture.
 
 3. [_Javascript Allongé: Values and Expressions over Coffee_](https://leanpub.com/javascriptallongesix/read#leanpub-auto-prelude-values-and-expressions-over-coffee)
-_"Values are expressions..."
+_"Values are expressions..."_
 
 4. [Udemy: "Javascript: Understanding the Weird Parts"](https://www.udemy.com/understand-javascript/)
 ##### Don't. miss. this. one.
@@ -68,9 +68,11 @@ There are different ways to do this depending on your system, but it's usually p
   Being as `Control` is the default leader key for some very useful keyboard shortcuts on the command line (which, again, you're going to be using more and more from now on), and `Caps Lock` is so much more conveniently located. In fact, many of the first consumer-grade computer keyboards [shipped with the `Control` key where `Caps Lock` is nowadays](https://donatstudios.com/UNIX-Keyboards). Besides, I bet you can count on one hand the number of times you've used `Caps Lock` in the past month... **;o)**
   
 3. **_Upgrade and Customize your Terminal_** 
-Since you'll be spending so much time with the command line, I recommend you select a better Terminal emulator than the one that comes with your machine.
-  - **macOS**: Install [iTerm2](https://www.iterm2.com/) and [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH) for a much better CLI experience. I recommend using a minimal theme like [Avit](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#avit)
-  - **Windows**: Install [Cygwin] and configure to your liking.
+Since you'll be spending so much time with the command line, I recommend you select a better Terminal emulator than the one that comes pre-installed.
+  - **macOS**: Install [iTerm2](https://www.iterm2.com/) and [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH) for a much better CLI experience. I recommend using a minimal theme like [Avit](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#avit). 
+    - **macOS users should also install** [Homebrew](http://brew.sh/): Open a Terminal window (`cmd`+`spacebar`, type in "Terminal", hit `enter`) and paste in this command from their website. Follow the prompts (default configs are usually sufficient):
+   `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  - **Windows**: ~~Install Linux~~ Install [Cygwin](https://www.cygwin.com/) and configure to your liking.
   
 4. **_Start learning `vim`_** 
 This will be the most challenging change to implement in your development environment, but the longterm benefits you will gain from being able to **write code really fast** are absolutely worth it. There are many development environments and text editors out there, but the oldest and most widely-revered standbys are [Vim](http://www.vim.org/) and [Emacs](https://www.gnu.org/software/emacs/tour/). Both have strengths and weaknesses, an extended discussion of which would be outside the scope of this article. Vim is my favorite, for a number of reasons:
