@@ -71,6 +71,26 @@ Simply move your cursor to the line and hit `V` (`shift` + `v`)
 
 Now move to wherever you'd like to paste in the line. 
 
+```bash
+1 | What am I even doing  ⬅︎  select (V) and yank (y) this line,
+2 |
+3 | Vim is weird ⬅︎  Move to this line and hit `p`,
+4 |
+5 |
+6 |
+...
+```
+
+```bash
+1 | What am I even doing
+2 |
+3 | Vim is weird
+4 | What am I even doing  ⬅︎  Here is your result!
+5 |
+6 |
+...
+```
+
 Say you move to line 42. If you want to paste to line **43**, hit `p`.
 
 OR if you want to paste to line **41**, hit **`P`**!
