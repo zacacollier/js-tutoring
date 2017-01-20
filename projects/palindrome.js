@@ -17,7 +17,7 @@ const getPrompt = () => {
     console.log(chalk.cyan('Bye!'));
     return process.exit();
   });
-  rl.question('Enter a word: (Hit Ctrl + c to quit) ', (word) => {
+  rl.question('PALINDROME VALIDATOR\n(Hit Ctrl + c to quit or type "test" to test your code)\nEnter a word: ', (word) => {
     if (word === 'test') {
       return runTests(palindrome(word));
    }
@@ -35,12 +35,13 @@ getPrompt();
 // Tests
 
 const runTests = () => {
-  test('palindrome', (t) => {
+  test('Palindrome tests:', (t) => {
     t.ok(palindrome('civic'));
     t.ok(palindrome('rediviDer'));
     t.ok(palindrome('kayak'));
-    t.notOk(palindrome('el baño'));
+    t.equal(palindrome('el baño'), false);
     t.end();
+    process.exit();
   });
 };
 
