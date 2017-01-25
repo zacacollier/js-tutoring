@@ -9,10 +9,16 @@ const rl = readline.createInterface({
 });
 
 const palindrome = (word) => {
-  // Code goes here
-    // just testin
-
-    return true;
+     word = word.toLowerCase();
+    var length = word.length;
+    for ( var i = 0 ; i < length; i ++) {
+        if ( word[i] !== word[(length - [i]) -1] ){
+            return false;
+        } else {
+            return true;
+        }
+           
+    }
    
 };
 
@@ -49,6 +55,6 @@ const runTests = () => {
   });
 };
 
-runTests();
+
 
 module.exports = palindrome;
