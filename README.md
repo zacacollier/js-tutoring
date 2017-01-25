@@ -82,6 +82,14 @@ This will be the most challenging change to implement in your development enviro
   - **Supported everywhere** - Lots of UNIX-based systems even come with Vim already installed. Not only that, but since the *configuration* is loaded from a regular plaintext file in the host's home directory, it's easy to backup and install from anywhere - for instance, I can host my `config` files on Github, pull in my `.vimrc` and load in my preferred settings.
   The best way to transition is to **first install Vim bindings for your current editor**. **Atom**, for instance, has a package called **"Vim Mode Plus"** that's got all the basic functionality you'll need to get your bearings. This way, you'll be able to learn the basics - moving around, cutting / pasting text - but you'll always be able to fall back on the mouse when necessary. 
   I'll post a more detailed guide on how to get **just the right amount of customization** in your `vim` setup, so you can really soup up your development environment when you're ready.
+  
+##### Supplementary materials and guides
+I add tips, tricks and tutorials to this repo as I continue to work on it:
+
+- [`git` tips](https://github.com/zacacollier/js-tutoring/blob/master/git-tips.md)
+- [`vim` tips](https://github.com/zacacollier/js-tutoring/blob/master/vim-keys.md)
+
+ - [handy starter guide for picking up `vim`](https://github.com/zacacollier/js-tutoring/blob/master/vim.pdf)
 
 ##### More to come!
 I'll keep you updated on how we'll be using this repo to co-work on projects and exercises.
