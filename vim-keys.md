@@ -1,5 +1,11 @@
 ## Vim tips & tricks
 
+##### Use the vim tutor!
+In your shell:
+```bash
+vimtutor
+```
+
 ##### Movement
 ![http://vimsheet.com/images/hjkl.png]
 (http://vimsheet.com/images/hjkl.png)
