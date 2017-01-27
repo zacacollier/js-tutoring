@@ -33,8 +33,7 @@ A little slice of the big picture.
 _"Values are expressions..."_
 
 4. [Udemy: "Javascript: Understanding the Weird Parts"](https://www.udemy.com/understand-javascript/)
-##### Don't. miss. this. one.
-Anthony Aliceas' course on Udemy is simply one of the best Javascript resources out there. Once you know enough JS to survive - you've had time to get acquainted with some of it's maddening nuances - go grab this course. When I was struggling with JS at first, this helped me, more than anything, start to feel like I was "getting it". 
+Anthony Aliceas' course on [Udemy](#weird-js) is simply one of the best Javascript resources out there. Once you know enough JS to survive - you've had time to get acquainted with some of it's maddening nuances - go grab this course. When I was struggling with JS at first, this helped me, more than anything, start to feel like I was "getting it". 
 The course lists for $175, but here's how you can get it for about $15:
 
  - Download the [Honey extension](https://chrome.google.com/webstore/detail/honey/) for Chrome.
