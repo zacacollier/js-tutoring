@@ -1,3 +1,8 @@
+'use strict'
+function sayHello(){}
+var a
+var b;
+
 /* jshint node: true, esversion: 6 */
 'use strict';
 const test = require('tape');
@@ -24,3 +29,4 @@ const getPrompt = () => {
 // are should equal 'ar-opp-e'
 // and should equal 'and-opp'
 // syllables are demarcated by consecutive consonants
+
